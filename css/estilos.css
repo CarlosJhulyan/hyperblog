@@ -18,3 +18,7 @@ h1 {
 	color: white;
 	background: #333;
 }
+
+p {
+	line-height: 30px;
+}
